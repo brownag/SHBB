@@ -1,0 +1,44 @@
+Area_Symbol|Map_Symbol|Map_Unit_Name|Map_Unit_Acres|Non-irr_LCC_and_sub|Overall_Index|Mukey
+GA602|AeC|Ailey loamy coarse sand, 2 to 8 percent slopes|7620|4s|0.0000|125154
+GA602|AoA|Albany sand, 0 to 2 percent slopes|31010|3w|0.2570|125155
+GA602|Ba|Bayboro loam, ponded|1695|6w|0.0000|125156
+GA602|BbB|Blanton sand, 0 to 8 percent slopes|7375|3s|0.0000|125157
+GA602|BgC|Blanton fine gravelly sand, 2 to 8 percent slopes|570|4s|0.0000|125158
+GA602|BoC|Bonifay sand, 2 to 8 percent slopes|14065|3s|0.0000|125159
+GA602|CbB|Cainhoy sand, 0 to 5 percent slopes|4110|4s|0.0100|125160
+GA602|CeB2|Carnegie sandy loam, 3 to 5 percent slopes, eroded|26350|3e|0.0000|125161
+GA602|CgC2|Carnegie-Cowarts complex, 5 to 8 percent slopes, eroded|21695|4e|0.0000|125162
+GA602|Ch|Chastain-Tawcaw complex, frequently flooded|4730|6w|0.0000|125163
+GA602|CnA|Clarendon loamy sand, 0 to 2 percent slopes|18930|2w|0.3810|125164
+GA602|CnB|Clarendon loamy sand, 2 to 5 percent slopes|9260|2e|0.0000|125165
+GA602|CsD2|Cowarts-Sunsweet complex, 8 to 17 percent slopes, eroded|1085|7e|0.0000|125166
+GA602|Da|Dasher mucky peat, ponded, 0 to 1 percent slopes|9920|7w|0.0000|125167
+GA602|Da|Dasher muck, ponded|9920|7w|99.0000|2952632
+GA602|DoA|Dothan loamy sand, 0 to 2 percent slopes|1360|1|0.0100|125168
+GA602|DoB|Dothan loamy sand, 2 to 5 percent slopes|10550|2e|0.0000|125169
+GA602|EoB|Esto loamy sand, 2 to 5 percent slopes|3900|3e|0.0000|125170
+GA602|EoD|Esto loamy sand, 5 to 12 percent slopes|1030|6e|0.0000|125171
+GA602|ErD|Esto-Rock outcrop complex, 5 to 12 percent slopes|725||4E-06|125172
+GA602|FsB|Fuquay loamy sand, 1 to 5 percent slopes|44885|2s|0.0100|125173
+GA602|KeC|Kershaw coarse sand, 2 to 8 percent slopes|18685|7s|0.0000|125175
+GA602|KJ|Kinston and Johnston soils, 0 to 2 percent slopes, frequently flooded|99290|7w|0.0000|125174
+GA602|KJ|Kinston and Johnston soils, frequently flooded|99290|7w|0.0000|2950726
+GA602|Le|Leefield loamy sand|98975|2w|0.2570|125176
+GA602|Lu|Leefield-Urban land complex|515||0.1414|125177
+GA602|OB|Osier-Bibb association, frequently flooded|2150|5w|0.0000|125178
+GA602|Ou|Ousley loamy fine sand, occasionally flooded|400|3w|0.0000|125179
+GA602|Pd|Pelham fine sand, ponded, 0 to 2 percent slopes|6900|5w|0.0000|125180
+GA602|Pd|Pelham sand, ponded|6900|5w|0.0000|2771461
+GA602|Pe|Pelham loamy sand, occasionally flooded|138905|5w|0.0000|125181
+GA602|Rg|Rigdon sand|46450|3w|1.0000|125182
+GA602|Sa|Sapelo fine sand|33950|4w|0.0000|125183
+GA602|StA|Stilson loamy sand, 0 to 2 percent slopes|20195|2w|0.0100|125184
+GA602|Su|Surrency loamy sand, ponded|42335|6w|0.0000|125185
+GA602|TfA|Tifton loamy sand, 0 to 2 percent slopes|5140|1|0.0100|125186
+GA602|TfB|Tifton loamy sand, 2 to 5 percent slopes|37385|2e|0.0000|125187
+GA602|TuB|Tifton-Urban land complex, 2 to 5 percent slopes|650||4.5E-06|125188
+GA602|TyD|Troup-Ailey coarse sands, 8 to 17 percent slopes|1755|6s|0.0000|125189
+GA602|W|Water|9950||50.0000|712405
+GA602|Wa|Wahee fine sandy loam, frequently flooded|1715|2w|0.0000|125190
+GA602|WcB|Wicksburg loamy sand, 2 to 5 percent slopes|1345|2s|0.0000|125191
+GA602|WcC|Wicksburg loamy sand, 5 to 8 percent slopes|1445|3s|0.0000|125192
